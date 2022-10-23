@@ -8,11 +8,11 @@
 2. Make changes to the code on that branch, add your details in data.js like below and commit.
     ```
     {
-      name: "Aarhan Khan",
-      quote: "developer of this site",
-      insta: "https://www.instagram.com/aarhan_._/",
-      github: "https://github.com/bdab-x",
-      linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
+      name: "Mansi Salar",
+      quote: "Member of ACM",
+      insta: "https://www.instagram.com/Mansi Salar/",
+      github: "https://github.com/Mansi6salar",
+      linkedin: "https://www.linkedin.com/in/Mansi Salar/",
     },
    ```
 3. Push the commit to GitHub.
